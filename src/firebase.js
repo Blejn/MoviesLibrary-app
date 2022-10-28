@@ -2,7 +2,7 @@
 import firebase from "firebase/compat/app";
 import "firebase/compat/auth";
 import "firebase/compat/firestore";
-
+//Firebase confugiration
 const firebaseConfig = {
   apiKey: "AIzaSyDadig9J7Biwh44Yiei6lGxTfV9Xh6FIag",
   authDomain: "movies-app-2d935.firebaseapp.com",
